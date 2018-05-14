@@ -1,2 +1,2 @@
 feature line
-second line
+second line to commit
