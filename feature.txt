@@ -1,4 +1,2 @@
 feature line
 second line to commit
-third
-fourth
